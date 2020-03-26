@@ -1,0 +1,31 @@
+.buttons {
+
+    float: center;
+    text-align: center;
+}
+
+.buttons .btn-outline-success {
+
+    width: 266px;
+    text-align: center;
+}
+
+.twoarea {
+
+    padding: 55px;
+    margin: auto;
+}
+
+.contact-info .adress .phone .mail,
+p {
+    margin: 25px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.contact-info .adress .phone .mail,
+p:hover {
+    color: #2265f5;
+}
